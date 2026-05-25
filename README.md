@@ -6,3 +6,5 @@ note via VS code - code README.md
 
 changes made via new branch tutorial/git
 
+2nd change made via new branch
+
